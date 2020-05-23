@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-DSSLIC/Pods-DSSLIC-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SDWebImageFLIFCoder/SDWebImageFLIFCoder.framework
+${BUILT_PRODUCTS_DIR}/libflif/libflif.framework
+${BUILT_PRODUCTS_DIR}/libpng/libpng.framework

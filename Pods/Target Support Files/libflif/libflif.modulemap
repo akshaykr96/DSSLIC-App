@@ -1,0 +1,6 @@
+framework module libflif {
+  umbrella header "libflif-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_DSSLICUITests {
+  umbrella header "Pods-DSSLICUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
